@@ -1,8 +1,16 @@
-# React + Vite
+# Garhwal Yatra
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
+Garhwal Yatra is a static blog website dedicated to exploring the beautiful and spiritual places of the Garhwal region. It provides detailed information about tourist spots, temples, and cultural attractions, helping travelers plan their journeys effectively.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🗺️ **Interactive Maps** – Locate key destinations in the Garhwal region.
+- 📖 **Informative Blog Posts** – Detailed guides on tourist spots, temples, and historical sites.
+- 🔄 **Seasonal Updates** – Get updated insights on places based on different seasons.
+- 📱 **Fully Responsive** – Optimized for mobile, tablet, and desktop users.
+- 🎨 **Minimal & Clean UI** – Enhances readability and user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind CSS, React Router
+- **Build Tool:** Vite
+- **Deployment:** Vercel 
