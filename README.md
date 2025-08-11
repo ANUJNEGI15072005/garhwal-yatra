@@ -1,12 +1,77 @@
-# React + Vite
+# Garhwal Yatra
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Garhwal Yatra is a travel guide web application dedicated to showcasing the beauty, culture, and spirituality of Uttarakhand's Garhwal region. It provides detailed information about tourist spots, temples, trekking routes, and local culture to help travelers plan their visit.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Explore popular districts and tourist places in the Garhwal region.
+- Detailed pages for each place with descriptions and images.
+- Special section for Char Dham temples.
+- Responsive design for desktop and mobile devices.
+- Easy navigation with React Router.
+- Footer with social links to developer's LinkedIn and GitHub.
+- Scroll to top on every route change for better user experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+
+- React.js
+- React Router DOM
+- Tailwind CSS
+- React Icons
+
+---
+
+## Installation
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/ANUJNEGI15072005/garhwal-yatra
+   cd garhwal-yatra
+   ```
+2. Install dependencies
+
+   ```bash
+   npm install
+   ```
+3. Start the development server
+
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## Usage
+
+- Use the navbar or links on the homepage to navigate through different districts.
+- Click on any place name to view detailed information about that place.
+- Explore the Char Dham section for information about the four sacred shrines.
+
+---
+
+## Developer
+
+Developed by Anuj Negi
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="30" />](https://www.linkedin.com/in/anujnegi-webdev) &nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub" width="30" />](https://github.com/ANUJNEGI15072005)
+
+---
+
+## License
+
+This project is for educational and portfolio purposes. Images used in this project are sourced from publicly available materials and remain the property of their respective owners.
+
+---
+
+## Notes
+
+- Scroll-to-top functionality implemented on every route change for better user experience.
+- Icons used are from the open-source React Icons library.
+- The site is fully responsive and optimized for mobile and tablet devices.
+
